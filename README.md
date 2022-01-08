@@ -1,21 +1,19 @@
 ## qb-kleding
-- Voor BestPixel hebben we een gemakkelijk script gemaakt waarmee we kleding als een item weergeven en bruikbaar maken. We werken momenteel nog aan het script, waardoor we adviseren deze NIET TE DOWNLOADEN totdat de uiteindelijke versie voltooid is.
-daarnaast is alles gekoppeld aan de kleding zoals wij deze ingesteld hebben en kan deze dus voor een ieder afwijken. Om meer informatie te krijgen over hoe je deze aanpast bekijk dan Credits/Links.
+- For BestPixel we have created an easy script that allows us to display clothing as an item and make it usable. We are currently still working on the script, so we advise NOT DOWNLOAD it until the final version is completed. In addition, everything is linked to the clothing as we have set it up and can therefore differ for everyone. To get more information on how to customize it, check out Credits/Links.
 
 ###### Releases ######
-Bekijk de [releases](https://github.com/meistroburger/qb-kleding/releases) hier of ga naar https://github.com/meistroburger/qb-kleding/releases
+Check out the releases here or go to https://github.com/meistroburger/qb-kleding/releases
 
 ###### WORK IN PROGRESS ######
-- Het script is nog niet volledig en we adviseren dan ook niet om het te gebruiken als je niet weet wat je ermee wilt doen. Verbetering aanbrengen mag altijd, maar dan zien we dit graag terug. Mocht je dit script zelf willen gebruiken voor iets anders, dan zou een vermelding van credits prettig zijn. Heb je eventueel verbeteringen, opmerkingen en/of problemen? Meld deze dan, zodat we samen het script kunnen verbeteren.
-
+- The script is not complete yet, so we don't recommend using it if you don't know what you want to do with it. You can always make improvements, but then we would like to see this reflected. If you want to use this script yourself for something else, a mention of credits would be nice. Do you have any improvements, comments and/or problems? Please report this so that we can improve the script together.
 ###### Images ######
-- Images dienen in qb-inventory geplaatst te worden
+- Images must be placed in qb-inventory
 
 ###### Shared.lua ######
-- Items zoals in shared.lua dienen toegevoegd te worden aan qb-core/shared.lua
+- Items like in shared.lua should be added to qb-core/shared.lua
 
 ###### Credits/Links ######
 - Credits (Original): [ArcadiaRoleplay](https://github.com/ArcadiaRoleplay/qb-bag)
 - Reworked/Script: [MeistroBurger](https://github.com/meistroburger)
-- Informatie: [SetPedComponentVariation](https://docs.fivem.net/natives/?_0x262B14F48D29DE80)
-- Informatie 2: [SetPedComponentVariation](http://www.kronzky.info/fivemwiki/index.php?title=SetPedComponentVariation)
+- Information: [SetPedComponentVariation](https://docs.fivem.net/natives/?_0x262B14F48D29DE80)
+- Information 2: [SetPedComponentVariation](http://www.kronzky.info/fivemwiki/index.php?title=SetPedComponentVariation)
